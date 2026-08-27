@@ -3,8 +3,9 @@
     "servers": {
         "ERP-001": {
             "app": "ERP",
+            "server_id": "ERP-001",
             "server": "KenScript",
-            "endpoint": ""
+            "endpoint": "https://known-drawing-format-deserve.trycloudflare.com/ERP"
         }
     }
 }
