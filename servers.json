@@ -1,1 +1,10 @@
-
+{
+    "version": 1,
+    "servers": {
+        "ERP-001": {
+            "app": "ERP",
+            "server": "KenScript",
+            "endpoint": ""
+        }
+    }
+}
